@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13568#Woman-Suffrage-By-Federal-Constitutional-Amendment
 gutenberg_bookshelf: Suffrage
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
