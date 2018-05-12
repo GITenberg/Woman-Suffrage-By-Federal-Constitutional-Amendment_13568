@@ -1,0 +1,29 @@
+_repo: Woman-Suffrage-By-Federal-Constitutional-Amendment_13568
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Catt, Carrie Chapman
+    alias: Lane, Carrie Clinton
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '34778'
+    url: http://www.gutenberg.org/2009/agents/34778
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Suffrage
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13568'
+  lccn: '17004988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Women -- Suffrage -- United States'
+title: Woman Suffrage By Federal Constitutional Amendment
+url: http://www.gutenberg.org/ebooks/13568
